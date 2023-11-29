@@ -1,3 +1,7 @@
+**Fall 2023 | CMPE 255 Data Mining
+Professor Gheorghi Guzun
+San Jose State University**
+
 **Project Title** : Payment Behavior Analysis: Analytics and Predictions for Customers’ Delinquency Data
 
 **Team Members** : 

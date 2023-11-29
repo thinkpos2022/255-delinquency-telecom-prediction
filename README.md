@@ -18,3 +18,7 @@ The Delinquency Telecom Dataset provides insights into how customers handle thei
 Source Code : https://colab.research.google.com/drive/1ROtXk3U89TZMeOAraEPtZyBdYDp3Zo2B#scrollTo=r8m6M-RQG1SK 
 To execute the code, download the 'sample_data_intw.csv' file and save it in the same directory where your code file is located.
 
+
+**Reference:**
+sivakrishna3311. "Delinquency Telecom Model." Kaggle, 2019, www.kaggle.com/code/sivakrishna3311/delinquency-telecom-model.
+

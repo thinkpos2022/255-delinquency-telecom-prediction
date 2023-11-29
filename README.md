@@ -1,4 +1,4 @@
-**Project Title** : Telecom Payment Behavior: Predictive Analysis from Delinquency Data
+**Project Title** : Payment Behavior Analysis: Analytics and Predictions for Customers’ Delinquency Data
 
 **Team Members** : 
 
